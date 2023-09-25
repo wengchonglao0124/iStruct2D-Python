@@ -16,6 +16,7 @@ Similar to the traditional structural analysis software, the analysis results fr
 <img width="1488" alt="CleanShot 2023-09-25 at 18 02 34@2x" src="https://github.com/wengchonglao0124/iStruct2D-Python/assets/85862169/64ccb1c5-c584-4ef4-a2f9-77b81d8b486d">
 
 ### Video Demonstration
+https://github.com/wengchonglao0124/iStruct2D-Python/assets/85862169/5a211559-59c5-4565-9a6f-e9e8fea77a77
 
 
 ### Frame Structure Example
