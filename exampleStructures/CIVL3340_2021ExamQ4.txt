@@ -1,0 +1,14 @@
+446;779
+kN;m;2
+12.59331385913664
+#node
+1;0;0;FFF;FFF1
+2;0;5000;FFR;FFR4
+3;4000;5000;FFR;FFR1
+#member
+1;1;2;15000.0;200000000.0;200000.0;frame
+2;2;3;15000.0;200000000.0;200000.0;frame
+#nodalLoad
+3;0.0;0.0;-3000000.0
+#memberPointLoad
+#uniformlyDistributedLoad

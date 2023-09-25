@@ -1,0 +1,14 @@
+148;476
+kN;m;2
+30.744849445324874
+#node
+1;0;0;FFF;FFF4
+2;10000;0;RFR;RFR1
+3;20000;0;FFF;FFF2
+#member
+1;1;2;;100000000.0;200000.0;beam
+2;2;3;;100000000.0;200000.0;beam
+#nodalLoad
+#memberPointLoad
+2;5000.0;0.0;-50000.0
+#uniformlyDistributedLoad
